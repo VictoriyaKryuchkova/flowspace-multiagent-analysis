@@ -1,0 +1,17 @@
+# Виртуальное окружение
+.venv/
+venv/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Локальная база ChromaDB
+chroma_db/
+
+# Настройки PyCharm
+.idea/
+
+# Секреты и переменные окружения
+.env
+.env.*
